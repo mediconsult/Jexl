@@ -1,5 +1,7 @@
 # Jexl [![Build Status](https://travis-ci.org/TomFrost/Jexl.svg?branch=master)](https://travis-ci.org/TomFrost/Jexl)
 
+CUSTOM VERSION with extended character support. Hopefully a temporary one until changes are in upstream.
+
 Javascript Expression Language: Powerful context-based expression parser and evaluator
 
 ## Quick start
